@@ -66,7 +66,7 @@ This project is open-source. Feel free to use the model link in your own applica
 
 ---
 
-*Created by [Your Name/GitHub Handle]*
+*Created by [Jaguram/GitHub Handle]*
 
 ---
 
