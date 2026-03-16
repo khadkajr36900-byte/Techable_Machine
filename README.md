@@ -21,7 +21,7 @@ The goal of this model is to provide a fast and accessible way to distinguish be
 * **Inputs:** Webcam or Image Uploads
 * **Classes Trained:**
 1. **[Notebook]**:![Notebook](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Notebook.jpg)
-2. **[Mobile]**: 
+2. **[Cup]**: ![Cup](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Cup.jpg)
 3. **[Cap]**:
 4. **[Cup]**:
 5. **[Bottle]**:
