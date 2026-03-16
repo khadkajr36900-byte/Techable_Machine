@@ -23,7 +23,7 @@ The goal of this model is to provide a fast and accessible way to distinguish be
 1. **[Notebook]**:![Notebook](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Notebook.jpg)
 2. **[Cup]**: ![Cup](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Cup.jpg)
 3. **[Mobile]**:![Mobile](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Mobile.jpg)
-4. **[Cup]**:
+4. **[Cpp]**: ![Cap](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Cap.jpg)
 5. **[Bottle]**:
 
 
