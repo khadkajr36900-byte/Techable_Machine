@@ -26,6 +26,12 @@ The goal of this model is to provide a fast and accessible way to distinguish be
 4. **[Cpp]**: ![Cap](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Cap.jpg)
 5. **[Bottle]**:![Bottle](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Bottle.jpg)
 
+## 📝 Reflection
+
+Supervised Learning 
+* This project uses Supervised Learning because I provided "labeled data" (the names for each category) to the model. The AI learned by associating the visual patterns from the webcam with the specific labels I created
+* If I hold two objects at once, it is showning mixed result. Sometime one object percentage is high and vice versa.
+
 
 
 ## 🛠️ How to Use
