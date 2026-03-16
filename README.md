@@ -20,7 +20,7 @@ The goal of this model is to provide a fast and accessible way to distinguish be
 * **Framework:** TensorFlow.js
 * **Inputs:** Webcam or Image Uploads
 * **Classes Trained:**
-1. **[Notebook]**:![Alt Text](C:/Users/LENOVO/Pictures/Notebook.jpg)
+1. **[Notebook]**:![Notebook](https://github.com/khadkajr36900-byte/Techable_Machine/blob/main/Notebook.jpg)
 2. **[Mobile]**: 
 3. **[Cap]**:
 4. **[Cup]**:
