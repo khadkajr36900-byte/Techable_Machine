@@ -20,9 +20,11 @@ The goal of this model is to provide a fast and accessible way to distinguish be
 * **Framework:** TensorFlow.js
 * **Inputs:** Webcam or Image Uploads
 * **Classes Trained:**
-1. **[Class Name 1]**: (e.g., "Mask On")
-2. **[Class Name 2]**: (e.g., "Mask Off")
-3. **[Class Name 3]**: (e.g., "Background/Neutral")
+1. **[Notebook]**: ![Alt Text]("C:\Users\LENOVO\Pictures\Notebook.jpg")
+2. **[Mobile]**: 
+3. **[Cap]**:
+4. **[Cup]**:
+5. **[Bottle]**:
 
 
 
